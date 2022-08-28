@@ -17,4 +17,4 @@
 ### Find the dataset sourced from NOAA's hurricane database subset [here](https://www.kaggle.com/datasets/christinezinkand/storms?select=storms.csv)
 
 ## Tableau Project:
-### Click this [link](https://public.tableau.com/views/StormAnalysisoftheAtlanticBasin/AtlanticBasinStormsAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to view the project presentation in Tableau Public.
+### Click this [link](https://public.tableau.com/views/StormAnalysisoftheAtlanticBasin/AtlanticBasinStormsAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to view the project presentation in Tableau Public. Note: not all steps are included in the presentation, only those relevant to final results.
